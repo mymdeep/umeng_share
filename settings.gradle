@@ -1,0 +1,1 @@
+include ':app', ':main', ':sina_full', ':sina_simple', ':qq_full', ':qq_simple', ':shareview', ':weixin_full', ':weixin_simple'

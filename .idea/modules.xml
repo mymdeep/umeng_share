@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SocialM.iml" filepath="$PROJECT_DIR$/SocialM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq_full/qq_full.iml" filepath="$PROJECT_DIR$/qq_full/qq_full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq_simple/qq_simple.iml" filepath="$PROJECT_DIR$/qq_simple/qq_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareview/shareview.iml" filepath="$PROJECT_DIR$/shareview/shareview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sina_full/sina_full.iml" filepath="$PROJECT_DIR$/sina_full/sina_full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sina_simple/sina_simple.iml" filepath="$PROJECT_DIR$/sina_simple/sina_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin_full/weixin_full.iml" filepath="$PROJECT_DIR$/weixin_full/weixin_full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin_simple/weixin_simple.iml" filepath="$PROJECT_DIR$/weixin_simple/weixin_simple.iml" />
+    </modules>
+  </component>
+</project>

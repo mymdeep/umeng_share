@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/main" />
+            <option value="$PROJECT_DIR$/qq_full" />
+            <option value="$PROJECT_DIR$/qq_simple" />
+            <option value="$PROJECT_DIR$/shareview" />
+            <option value="$PROJECT_DIR$/sina_full" />
+            <option value="$PROJECT_DIR$/sina_simple" />
+            <option value="$PROJECT_DIR$/weixin_full" />
+            <option value="$PROJECT_DIR$/weixin_simple" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/main" />
+            <option value="$PROJECT_DIR$/qq_full" />
+            <option value="$PROJECT_DIR$/qq_simple" />
+            <option value="$PROJECT_DIR$/shareview" />
+            <option value="$PROJECT_DIR$/sina_full" />
+            <option value="$PROJECT_DIR$/sina_simple" />
+            <option value="$PROJECT_DIR$/weixin_full" />
+            <option value="$PROJECT_DIR$/weixin_simple" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
